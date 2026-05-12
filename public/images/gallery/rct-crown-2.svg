@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" rx="24" fill="#F0FDFA"/>
+  <rect x="40" y="40" width="720" height="520" rx="20" fill="#CCFBF1" opacity="0.5"/>
+  <path d="M400 180c-35 0-62 18-74 44-9 20-6 44 7 62l20 40c5 10 8 22 8 34v55c0 18 14 32 32 32h14c18 0 32-14 32-32v-55c0-12 3-24 8-34l20-40c13-18 16-42 7-62-12-26-39-44-74-44z" fill="white" stroke="#0D8F9E" stroke-width="3"/>
+  <path d="M340 245h120" stroke="#0D8F9E" stroke-width="2" opacity="0.4"/>
+  <path d="M400 245v-60" stroke="#0D8F9E" stroke-width="1.5" stroke-dasharray="3 3" opacity="0.3"/>
+  <circle cx="400" cy="220" r="6" fill="#11B8C9" opacity="0.4"/>
+  <path d="M510 200l6-15 6 15 15 6-15 6-6 15-6-15-15-6z" fill="#11B8C9" opacity="0.4"/>
+  <text x="400" y="540" text-anchor="middle" font-family="system-ui,sans-serif" font-size="20" font-weight="600" fill="#0D8F9E">RCT + Crown Result</text>
+</svg>

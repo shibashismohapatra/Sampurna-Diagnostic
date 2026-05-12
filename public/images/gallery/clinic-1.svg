@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" rx="24" fill="#F0FDFA"/>
+  <rect x="40" y="40" width="720" height="520" rx="20" fill="#CCFBF1" opacity="0.5"/>
+  <!-- Clinic interior -->
+  <rect x="120" y="150" width="560" height="300" rx="12" fill="white" stroke="#E2E8F0" stroke-width="2"/>
+  <!-- Dental chair -->
+  <rect x="320" y="280" width="160" height="80" rx="20" fill="#11B8C9" opacity="0.2" stroke="#0D8F9E" stroke-width="2"/>
+  <rect x="340" y="260" width="40" height="30" rx="10" fill="#11B8C9" opacity="0.15" stroke="#0D8F9E" stroke-width="1.5"/>
+  <rect x="460" y="300" width="20" height="60" rx="4" fill="#94A3B8"/>
+  <!-- Light -->
+  <circle cx="450" cy="200" r="20" fill="#FEF3C7" stroke="#F59E0B" stroke-width="1.5" opacity="0.6"/>
+  <line x1="450" y1="220" x2="450" y2="260" stroke="#94A3B8" stroke-width="2"/>
+  <!-- Window -->
+  <rect x="160" y="180" width="80" height="100" rx="6" fill="#E0F2FE" stroke="#94A3B8" stroke-width="1.5"/>
+  <line x1="200" y1="180" x2="200" y2="280" stroke="#94A3B8" stroke-width="1"/>
+  <line x1="160" y1="230" x2="240" y2="230" stroke="#94A3B8" stroke-width="1"/>
+  <!-- Floor -->
+  <line x1="120" y1="450" x2="680" y2="450" stroke="#E2E8F0" stroke-width="2"/>
+  <text x="400" y="540" text-anchor="middle" font-family="system-ui,sans-serif" font-size="20" font-weight="600" fill="#0D8F9E">Clinic Ambience</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#F8FBFB"/>
+  <rect x="16" y="16" width="768" height="568" rx="20" fill="#ecfeff" stroke="#11B8C9" stroke-width="2"/>
+  <circle cx="400" cy="240" r="60" fill="#cffafe" stroke="#11B8C9" stroke-width="2"/>
+  <text x="400" y="248" text-anchor="middle" font-family="system-ui" font-size="40" fill="#0D8F9E">🦷</text>
+  <text x="400" y="360" text-anchor="middle" font-family="system-ui" font-size="20" fill="#0D8F9E">Treatment Placeholder</text>
+</svg>

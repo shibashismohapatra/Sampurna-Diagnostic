@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" rx="24" fill="#F0FDFA"/>
+  <rect x="40" y="40" width="720" height="520" rx="20" fill="#CCFBF1" opacity="0.5"/>
+  <!-- X-ray display -->
+  <rect x="300" y="140" width="200" height="150" rx="10" fill="#1E293B" stroke="#0D8F9E" stroke-width="2"/>
+  <path d="M370 180c-12 0-22 8-26 18-3 8-2 18 3 24l6 12c2 4 3 8 3 12v20c0 6 5 10 12 10h4c7 0 12-4 12-10v-20c0-4 1-8 3-12l6-12c5-6 6-16 3-24-4-10-14-18-26-18z" fill="none" stroke="#11B8C9" stroke-width="1.5" opacity="0.7"/>
+  <path d="M430 185c-10 0-18 7-22 16-3 7-2 15 3 21l5 10c1 3 2 7 2 10v18c0 5 5 9 10 9h4c6 0 10-4 10-9v-18c0-3 1-7 2-10l5-10c4-6 5-14 3-21-4-9-12-16-22-16z" fill="none" stroke="#11B8C9" stroke-width="1.5" opacity="0.7"/>
+  <!-- Doctor pointing -->
+  <circle cx="280" cy="310" r="25" fill="#11B8C9" opacity="0.15" stroke="#0D8F9E" stroke-width="1.5"/>
+  <rect x="260" y="342" width="40" height="60" rx="8" fill="#0D8F9E" opacity="0.12" stroke="#0D8F9E" stroke-width="1.5"/>
+  <!-- Pointing hand -->
+  <line x1="300" y1="340" x2="360" y2="260" stroke="#0D8F9E" stroke-width="2" stroke-linecap="round"/>
+  <!-- Patient -->
+  <circle cx="540" cy="320" r="22" fill="#11B8C9" opacity="0.1" stroke="#94A3B8" stroke-width="1.5"/>
+  <rect x="522" y="348" width="36" height="55" rx="8" fill="#11B8C9" opacity="0.06" stroke="#94A3B8" stroke-width="1.5"/>
+  <!-- Checkmark -->
+  <circle cx="540" cy="220" r="16" fill="#11B8C9" opacity="0.12"/>
+  <path d="M533 220l4 4 8-8" stroke="#0D8F9E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="540" text-anchor="middle" font-family="system-ui,sans-serif" font-size="20" font-weight="600" fill="#0D8F9E">Treatment Discussion</text>
+</svg>

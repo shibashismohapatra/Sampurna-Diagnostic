@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" rx="24" fill="#F0FDFA"/>
+  <rect x="40" y="40" width="720" height="520" rx="20" fill="#CCFBF1" opacity="0.5"/>
+  <!-- Scanner device -->
+  <rect x="340" y="140" width="120" height="50" rx="12" fill="#0D8F9E"/>
+  <rect x="360" y="150" width="80" height="30" rx="6" fill="#11B8C9" opacity="0.4"/>
+  <!-- Scanner arm -->
+  <rect x="395" y="190" width="10" height="60" fill="#64748B"/>
+  <!-- Scan beam -->
+  <path d="M400 250l-80 120h160z" fill="#11B8C9" opacity="0.1" stroke="#11B8C9" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <!-- 3D teeth model -->
+  <path d="M340 350c0-10 27-18 60-18s60 8 60 18v30c0 10-27 18-60 18s-60-8-60-18z" fill="none" stroke="#0D8F9E" stroke-width="2"/>
+  <path d="M345 365h110" stroke="#0D8F9E" stroke-width="1" stroke-dasharray="3 3" opacity="0.5"/>
+  <path d="M350 350v30" stroke="#0D8F9E" stroke-width="1" stroke-dasharray="3 3" opacity="0.5"/>
+  <path d="M370 345v35" stroke="#0D8F9E" stroke-width="1" stroke-dasharray="3 3" opacity="0.5"/>
+  <path d="M390 343v38" stroke="#0D8F9E" stroke-width="1" stroke-dasharray="3 3" opacity="0.5"/>
+  <path d="M410 343v38" stroke="#0D8F9E" stroke-width="1" stroke-dasharray="3 3" opacity="0.5"/>
+  <path d="M430 345v35" stroke="#0D8F9E" stroke-width="1" stroke-dasharray="3 3" opacity="0.5"/>
+  <path d="M450 350v30" stroke="#0D8F9E" stroke-width="1" stroke-dasharray="3 3" opacity="0.5"/>
+  <!-- 3D label -->
+  <text x="260" y="175" font-family="system-ui,sans-serif" font-size="28" font-weight="700" fill="#0D8F9E" opacity="0.6">3D</text>
+  <!-- Label -->
+  <text x="400" y="560" text-anchor="middle" font-family="system-ui,sans-serif" font-size="22" font-weight="600" fill="#0D8F9E">3D Dental Scanner</text>
+</svg>

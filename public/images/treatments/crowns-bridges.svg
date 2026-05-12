@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" rx="24" fill="#F0FDFA"/>
+  <rect x="40" y="40" width="720" height="520" rx="20" fill="#CCFBF1" opacity="0.5"/>
+  <!-- Original tooth (prepared/trimmed) -->
+  <path d="M400 220c-25 0-44 14-52 34-6 16-4 34 6 48l14 28c4 8 6 16 6 25v45c0 14 11 25 25 25h2c14 0 25-11 25-25v-45c0-9 2-17 6-25l14-28c10-14 12-32 6-48-8-20-27-34-52-34z" fill="#E2E8F0" stroke="#94A3B8" stroke-width="2" stroke-dasharray="4 3"/>
+  <!-- Crown over tooth -->
+  <path d="M400 180c-35 0-62 18-74 44-9 20-6 44 7 62l20 40c5 10 8 22 8 34v65c0 18 14 32 32 32h14c18 0 32-14 32-32v-65c0-12 3-24 8-34l20-40c13-18 16-42 7-62-12-26-39-44-74-44z" fill="white" stroke="#0D8F9E" stroke-width="3"/>
+  <!-- Crown highlight line -->
+  <path d="M345 250h110" stroke="#11B8C9" stroke-width="2" stroke-dasharray="4 3"/>
+  <!-- Bridge connection lines -->
+  <path d="M250 250h80" stroke="#0D8F9E" stroke-width="3" stroke-linecap="round"/>
+  <path d="M470 250h80" stroke="#0D8F9E" stroke-width="3" stroke-linecap="round"/>
+  <!-- Adjacent teeth (anchors) -->
+  <path d="M230 210c-20 0-35 12-40 28-5 12-3 28 5 38l10 22c3 6 4 12 4 18v35c0 10 8 18 18 18s18-8 18-18v-35c0-6 1-12 4-18l10-22c8-10 10-26 5-38-5-16-18-28-34-28z" fill="white" stroke="#94A3B8" stroke-width="2"/>
+  <path d="M570 210c-16 0-29 12-34 28-5 12-3 28 5 38l10 22c3 6 4 12 4 18v35c0 10 8 18 18 18s18-8 18-18v-35c0-6 1-12 4-18l10-22c8-10 10-26 5-38-5-16-18-28-34-28z" fill="white" stroke="#94A3B8" stroke-width="2"/>
+  <!-- Sparkle -->
+  <path d="M500 170l6-15 6 15 15 6-15 6-6 15-6-15-15-6z" fill="#11B8C9" opacity="0.4"/>
+  <!-- Label -->
+  <text x="400" y="560" text-anchor="middle" font-family="system-ui,sans-serif" font-size="22" font-weight="600" fill="#0D8F9E">Crowns &amp; Bridges</text>
+</svg>

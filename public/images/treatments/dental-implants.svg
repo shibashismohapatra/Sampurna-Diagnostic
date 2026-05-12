@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" rx="24" fill="#F0FDFA"/>
+  <rect x="40" y="40" width="720" height="520" rx="20" fill="#CCFBF1" opacity="0.5"/>
+  <!-- Jaw bone -->
+  <path d="M300 380h200c0 0 20 0 20 20v40c0 20-20 20-20 20H300c0 0-20 0-20-20v-40c0-20 20-20 20-20z" fill="#E2E8F0" stroke="#94A3B8" stroke-width="2"/>
+  <!-- Implant screw -->
+  <rect x="385" y="280" width="30" height="100" rx="4" fill="#94A3B8"/>
+  <line x1="385" y1="300" x2="415" y2="300" stroke="#CBD5E1" stroke-width="2"/>
+  <line x1="385" y1="320" x2="415" y2="320" stroke="#CBD5E1" stroke-width="2"/>
+  <line x1="385" y1="340" x2="415" y2="340" stroke="#CBD5E1" stroke-width="2"/>
+  <line x1="385" y1="360" x2="415" y2="360" stroke="#CBD5E1" stroke-width="2"/>
+  <!-- Abutment -->
+  <rect x="390" y="260" width="20" height="24" rx="2" fill="#0D8F9E"/>
+  <!-- Crown -->
+  <path d="M400 140c-35 0-60 18-70 45-8 22-5 46 8 65l15 20c4 5 6 10 6 16v-26h82v26c0-6 2-11 6-16l15-20c13-19 16-43 8-65-10-27-35-45-70-45z" fill="white" stroke="#0D8F9E" stroke-width="3"/>
+  <!-- Sparkle -->
+  <path d="M520 160l8-20 8 20 20 8-20 8-8 20-8-20-20-8z" fill="#11B8C9" opacity="0.6"/>
+  <path d="M280 200l5-12 5 12 12 5-12 5-5 12-5-12-12-5z" fill="#11B8C9" opacity="0.4"/>
+  <!-- Label -->
+  <text x="400" y="560" text-anchor="middle" font-family="system-ui,sans-serif" font-size="22" font-weight="600" fill="#0D8F9E">Dental Implants</text>
+</svg>

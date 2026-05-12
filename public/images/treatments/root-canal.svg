@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" rx="24" fill="#F0FDFA"/>
+  <rect x="40" y="40" width="720" height="520" rx="20" fill="#CCFBF1" opacity="0.5"/>
+  <!-- Tooth -->
+  <path d="M400 120c-40 0-72 20-85 50-10 24-8 52 5 75l30 60c8 16 12 34 12 52v103c0 22 18 40 40 40s40-18 40-40V357c0-18 4-36 12-52l30-60c13-23 15-51 5-75-13-30-49-50-89-50z" fill="white" stroke="#0D8F9E" stroke-width="4"/>
+  <!-- Root canals -->
+  <path d="M370 360v90c0 8-3 15-8 20" stroke="#11B8C9" stroke-width="3" stroke-linecap="round"/>
+  <path d="M400 360v100" stroke="#11B8C9" stroke-width="3" stroke-linecap="round"/>
+  <path d="M430 360v90c0 8 3 15 8 20" stroke="#11B8C9" stroke-width="3" stroke-linecap="round"/>
+  <!-- Tool -->
+  <path d="M520 180l-80 100" stroke="#0D8F9E" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="525" cy="175" r="8" fill="#0D8F9E"/>
+  <!-- Cross/Plus icon -->
+  <rect x="240" y="170" width="40" height="8" rx="4" fill="#11B8C9"/>
+  <rect x="256" y="154" width="8" height="40" rx="4" fill="#11B8C9"/>
+  <!-- Label -->
+  <text x="400" y="560" text-anchor="middle" font-family="system-ui,sans-serif" font-size="22" font-weight="600" fill="#0D8F9E">Root Canal Treatment</text>
+</svg>

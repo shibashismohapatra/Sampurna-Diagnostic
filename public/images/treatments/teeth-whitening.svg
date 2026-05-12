@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" rx="24" fill="#F0FDFA"/>
+  <rect x="40" y="40" width="720" height="520" rx="20" fill="#CCFBF1" opacity="0.5"/>
+  <!-- Tooth -->
+  <path d="M400 160c-45 0-80 22-95 55-12 26-8 56 8 80l25 50c6 12 10 26 10 40v75c0 22 18 40 40 40h24c22 0 40-18 40-40v-75c0-14 4-28 10-40l25-50c16-24 20-54 8-80-15-33-50-55-95-55z" fill="white" stroke="#0D8F9E" stroke-width="3"/>
+  <!-- Shine/sparkle effects -->
+  <path d="M370 220l60-10" stroke="#11B8C9" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M365 245l70-8" stroke="#11B8C9" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+  <path d="M368 270l64-5" stroke="#11B8C9" stroke-width="1.5" stroke-linecap="round" opacity="0.3"/>
+  <!-- Sparkles around tooth -->
+  <path d="M510 170l10-25 10 25 25 10-25 10-10 25-10-25-25-10z" fill="#11B8C9" opacity="0.5"/>
+  <path d="M270 200l7-18 7 18 18 7-18 7-7 18-7-18-18-7z" fill="#11B8C9" opacity="0.4"/>
+  <path d="M480 300l5-12 5 12 12 5-12 5-5 12-5-12-12-5z" fill="#11B8C9" opacity="0.3"/>
+  <path d="M300 320l6-15 6 15 15 6-15 6-6 15-6-15-15-6z" fill="#11B8C9" opacity="0.35"/>
+  <!-- Light beam -->
+  <ellipse cx="400" cy="160" rx="80" ry="30" fill="#11B8C9" opacity="0.08"/>
+  <!-- Label -->
+  <text x="400" y="560" text-anchor="middle" font-family="system-ui,sans-serif" font-size="22" font-weight="600" fill="#0D8F9E">Teeth Whitening</text>
+</svg>

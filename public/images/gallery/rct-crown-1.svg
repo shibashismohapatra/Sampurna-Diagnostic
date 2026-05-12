@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" rx="24" fill="#F0FDFA"/>
+  <rect x="40" y="40" width="720" height="520" rx="20" fill="#CCFBF1" opacity="0.5"/>
+  <path d="M400 170c-35 0-62 18-74 44-9 20-6 44 7 62l20 40c5 10 8 22 8 34v65c0 18 14 32 32 32h14c18 0 32-14 32-32v-65c0-12 3-24 8-34l20-40c13-18 16-42 7-62-12-26-39-44-74-44z" fill="white" stroke="#0D8F9E" stroke-width="3"/>
+  <path d="M370 330v70c0 6-3 12-7 16" stroke="#11B8C9" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M400 330v80" stroke="#11B8C9" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M430 330v70c0 6 3 12 7 16" stroke="#11B8C9" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M345 230h110" stroke="#11B8C9" stroke-width="2" stroke-dasharray="4 3" opacity="0.5"/>
+  <rect x="240" y="260" width="36" height="8" rx="4" fill="#11B8C9" opacity="0.4"/>
+  <rect x="254" y="246" width="8" height="36" rx="4" fill="#11B8C9" opacity="0.4"/>
+  <text x="400" y="540" text-anchor="middle" font-family="system-ui,sans-serif" font-size="20" font-weight="600" fill="#0D8F9E">RCT + Crown Case</text>
+</svg>

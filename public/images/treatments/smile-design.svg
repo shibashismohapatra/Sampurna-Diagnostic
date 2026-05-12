@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" rx="24" fill="#F0FDFA"/>
+  <rect x="40" y="40" width="720" height="520" rx="20" fill="#CCFBF1" opacity="0.5"/>
+  <!-- Smile curve -->
+  <path d="M280 280c0 80 54 140 120 140s120-60 120-140" stroke="#0D8F9E" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Teeth in smile -->
+  <rect x="310" y="260" width="24" height="36" rx="6" fill="white" stroke="#94A3B8" stroke-width="1.5"/>
+  <rect x="340" y="255" width="24" height="42" rx="6" fill="white" stroke="#94A3B8" stroke-width="1.5"/>
+  <rect x="370" y="252" width="26" height="46" rx="7" fill="white" stroke="#11B8C9" stroke-width="2"/>
+  <rect x="402" y="252" width="26" height="46" rx="7" fill="white" stroke="#11B8C9" stroke-width="2"/>
+  <rect x="434" y="255" width="24" height="42" rx="6" fill="white" stroke="#94A3B8" stroke-width="1.5"/>
+  <rect x="464" y="260" width="24" height="36" rx="6" fill="white" stroke="#94A3B8" stroke-width="1.5"/>
+  <!-- Sparkles -->
+  <path d="M520 200l10-25 10 25 25 10-25 10-10 25-10-25-25-10z" fill="#11B8C9" opacity="0.5"/>
+  <path d="M250 220l7-18 7 18 18 7-18 7-7 18-7-18-18-7z" fill="#11B8C9" opacity="0.4"/>
+  <path d="M400 160l8-20 8 20 20 8-20 8-8 20-8-20-20-8z" fill="#11B8C9" opacity="0.35"/>
+  <!-- Magic wand -->
+  <line x1="540" y1="160" x2="460" y2="240" stroke="#0D8F9E" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="545" cy="155" r="6" fill="#0D8F9E"/>
+  <path d="M544 140l3-8 3 8 8 3-8 3-3 8-3-8-8-3z" fill="#11B8C9" opacity="0.6"/>
+  <!-- Label -->
+  <text x="400" y="560" text-anchor="middle" font-family="system-ui,sans-serif" font-size="22" font-weight="600" fill="#0D8F9E">Smile Design</text>
+</svg>

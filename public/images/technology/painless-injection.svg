@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" rx="24" fill="#F0FDFA"/>
+  <rect x="40" y="40" width="720" height="520" rx="20" fill="#CCFBF1" opacity="0.5"/>
+  <!-- Syringe body -->
+  <rect x="370" y="130" width="60" height="180" rx="10" fill="#E2E8F0" stroke="#94A3B8" stroke-width="2"/>
+  <!-- Syringe plunger -->
+  <rect x="390" y="100" width="20" height="40" rx="4" fill="#94A3B8"/>
+  <rect x="382" y="95" width="36" height="12" rx="4" fill="#64748B"/>
+  <!-- Syringe markings -->
+  <line x1="375" y1="170" x2="395" y2="170" stroke="#94A3B8" stroke-width="1.5"/>
+  <line x1="375" y1="200" x2="395" y2="200" stroke="#94A3B8" stroke-width="1.5"/>
+  <line x1="375" y1="230" x2="395" y2="230" stroke="#94A3B8" stroke-width="1.5"/>
+  <line x1="375" y1="260" x2="395" y2="260" stroke="#94A3B8" stroke-width="1.5"/>
+  <!-- Needle -->
+  <rect x="396" y="310" width="8" height="60" rx="2" fill="#CBD5E1"/>
+  <!-- Comfort wave around needle -->
+  <path d="M360 340c-15 10-20 25-15 40" stroke="#11B8C9" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.3"/>
+  <path d="M440 340c15 10 20 25 15 40" stroke="#11B8C9" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.3"/>
+  <path d="M345 335c-18 12-24 30-18 48" stroke="#11B8C9" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.2"/>
+  <path d="M455 335c18 12 24 30 18 48" stroke="#11B8C9" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.2"/>
+  <!-- Painless check mark -->
+  <circle cx="520" cy="200" r="28" fill="#11B8C9" opacity="0.15"/>
+  <path d="M508 200l8 8 16-16" stroke="#0D8F9E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Smiley -->
+  <circle cx="280" cy="250" r="24" fill="#11B8C9" opacity="0.12"/>
+  <circle cx="272" cy="246" r="3" fill="#0D8F9E" opacity="0.5"/>
+  <circle cx="288" cy="246" r="3" fill="#0D8F9E" opacity="0.5"/>
+  <path d="M272 258c0 0 4 6 8 6s8-6 8-6" stroke="#0D8F9E" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.5"/>
+  <!-- Label -->
+  <text x="400" y="560" text-anchor="middle" font-family="system-ui,sans-serif" font-size="22" font-weight="600" fill="#0D8F9E">Painless Injection</text>
+</svg>

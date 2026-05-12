@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" rx="24" fill="#F0FDFA"/>
+  <rect x="40" y="40" width="720" height="520" rx="20" fill="#CCFBF1" opacity="0.5"/>
+  <!-- Tooth being extracted -->
+  <path d="M400 200c-35 0-62 18-74 44-9 20-6 44 7 62l20 40c5 10 8 22 8 34v65c0 18 14 32 32 32h14c18 0 32-14 32-32v-65c0-12 3-24 8-34l20-40c13-18 16-42 7-62-12-26-39-44-74-44z" fill="white" stroke="#0D8F9E" stroke-width="3"/>
+  <!-- Extraction forceps -->
+  <path d="M340 180l-60-60" stroke="#64748B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M460 180l60-60" stroke="#64748B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M280 120c0 0-10-5-5-15s15-5 15-5" stroke="#64748B" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M520 120c0 0 10-5 5-15s-15-5-15-5" stroke="#64748B" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Upward arrow (extraction motion) -->
+  <path d="M400 170l-15 25h10v20h10v-20h10z" fill="#0D8F9E" opacity="0.4"/>
+  <path d="M400 150l-12 20h8v15h8v-15h8z" fill="#0D8F9E" opacity="0.25"/>
+  <!-- Plus/medical cross -->
+  <rect x="530" y="300" width="36" height="8" rx="4" fill="#11B8C9" opacity="0.4"/>
+  <rect x="544" y="286" width="8" height="36" rx="4" fill="#11B8C9" opacity="0.4"/>
+  <!-- Label -->
+  <text x="400" y="560" text-anchor="middle" font-family="system-ui,sans-serif" font-size="22" font-weight="600" fill="#0D8F9E">Tooth Extraction</text>
+</svg>

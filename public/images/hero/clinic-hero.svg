@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <rect width="1200" height="600" fill="#F8FBFB"/>
+  <rect x="20" y="20" width="1160" height="560" rx="24" fill="#ecfeff" stroke="#11B8C9" stroke-width="2"/>
+  <text x="600" y="280" text-anchor="middle" font-family="system-ui" font-size="32" fill="#0D8F9E">Smiles by Dr. Annu</text>
+  <text x="600" y="330" text-anchor="middle" font-family="system-ui" font-size="18" fill="#6b7280">Clinic Hero Image Placeholder</text>
+</svg>

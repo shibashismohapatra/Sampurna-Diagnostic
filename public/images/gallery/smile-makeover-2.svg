@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" rx="24" fill="#F0FDFA"/>
+  <rect x="40" y="40" width="720" height="520" rx="20" fill="#CCFBF1" opacity="0.5"/>
+  <path d="M260 300c0 80 63 140 140 140s140-60 140-140" stroke="#0D8F9E" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <rect x="295" y="275" width="20" height="34" rx="5" fill="white" stroke="#94A3B8" stroke-width="1.5"/>
+  <rect x="322" y="270" width="22" height="40" rx="5" fill="white" stroke="#11B8C9" stroke-width="2"/>
+  <rect x="351" y="267" width="24" height="44" rx="6" fill="white" stroke="#11B8C9" stroke-width="2"/>
+  <rect x="382" y="265" width="26" height="46" rx="6" fill="white" stroke="#11B8C9" stroke-width="2"/>
+  <rect x="415" y="267" width="24" height="44" rx="6" fill="white" stroke="#11B8C9" stroke-width="2"/>
+  <rect x="446" y="270" width="22" height="40" rx="5" fill="white" stroke="#94A3B8" stroke-width="1.5"/>
+  <rect x="475" y="275" width="20" height="34" rx="5" fill="white" stroke="#94A3B8" stroke-width="1.5"/>
+  <path d="M530 200l8-20 8 20 20 8-20 8-8 20-8-20-20-8z" fill="#11B8C9" opacity="0.4"/>
+  <path d="M250 230l6-14 6 14 14 6-14 6-6 14-6-14-14-6z" fill="#11B8C9" opacity="0.3"/>
+  <text x="400" y="540" text-anchor="middle" font-family="system-ui,sans-serif" font-size="20" font-weight="600" fill="#0D8F9E">Smile Makeover Result</text>
+</svg>

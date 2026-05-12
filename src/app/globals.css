@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* Brand Colors */
+  --color-primary: #11B8C9;
+  --color-primary-dark: #0D8F9E;
+  --color-silver: #C6D1D4;
+  --color-graphite: #2B2B2B;
+  --color-soft-white: #F8FBFB;
+
+  /* Cyan shades for Tailwind  */
+  --color-cyan-50: #ecfeff;
+  --color-cyan-100: #cffafe;
+  --color-cyan-200: #a5f3fc;
+  --color-cyan-300: #67e8f9;
+  --color-cyan-400: #22d3ee;
+  --color-cyan-500: #11B8C9;
+  --color-cyan-600: #0D8F9E;
+  --color-cyan-700: #0e7490;
+  --color-cyan-800: #155e75;
+  --color-cyan-900: #164e63;
+
+  /* Fonts */
+  --font-heading: var(--font-poppins);
+  --font-body: var(--font-inter);
+  --font-sans: var(--font-inter);
+}
+
+body {
+  background: #ffffff;
+  color: #2B2B2B;
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading), system-ui, sans-serif;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Hide scrollbar for testimonial carousel */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" rx="24" fill="#F0FDFA"/>
+  <rect x="40" y="40" width="720" height="520" rx="20" fill="#CCFBF1" opacity="0.5"/>
+  <!-- Small tooth (child) -->
+  <path d="M400 170c-30 0-54 16-64 40-8 18-5 40 6 56l18 36c5 10 8 22 8 34v60c0 16 13 30 30 30h4c16 0 30-14 30-30v-60c0-12 3-24 8-34l18-36c11-16 14-38 6-56-10-24-34-40-64-40z" fill="white" stroke="#0D8F9E" stroke-width="3"/>
+  <!-- Happy face on tooth -->
+  <circle cx="385" cy="230" r="4" fill="#0D8F9E"/>
+  <circle cx="415" cy="230" r="4" fill="#0D8F9E"/>
+  <path d="M388 248c0 0 5 10 12 10s12-10 12-10" stroke="#0D8F9E" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <!-- Protective shield -->
+  <path d="M400 130l-70 30v50c0 50 30 95 70 110 40-15 70-60 70-110v-50z" fill="#11B8C9" opacity="0.1" stroke="#11B8C9" stroke-width="2"/>
+  <!-- Stars/fun elements around -->
+  <circle cx="280" cy="200" r="12" fill="#11B8C9" opacity="0.2"/>
+  <circle cx="520" cy="220" r="10" fill="#11B8C9" opacity="0.15"/>
+  <circle cx="300" cy="350" r="8" fill="#0D8F9E" opacity="0.12"/>
+  <circle cx="510" cy="380" r="14" fill="#11B8C9" opacity="0.1"/>
+  <!-- Heart -->
+  <path d="M530 170c-5-10-18-12-24-5-6-7-19-5-24 5-6 12 8 28 24 38 16-10 30-26 24-38z" fill="#0D8F9E" opacity="0.25"/>
+  <!-- Label -->
+  <text x="400" y="560" text-anchor="middle" font-family="system-ui,sans-serif" font-size="22" font-weight="600" fill="#0D8F9E">Pediatric Dentistry</text>
+</svg>
