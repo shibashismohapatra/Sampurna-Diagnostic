@@ -99,7 +99,7 @@ export default function FloatingActions() {
                 </div>
               )}
               
-              {'href' in btn ? (
+              {'href' in btn && btn.href ? (
                 <Link
                   href={btn.href}
                   {...(btn.isExternal ? { target: "_blank", rel: "noreferrer" } : {})}
