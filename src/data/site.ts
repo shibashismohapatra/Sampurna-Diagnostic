@@ -1,21 +1,21 @@
 export const siteConfig = {
-  brandName: "CrossMed",
-  siteUrl: "https://crossmedi.in",
+  brandName: "Sampurna Diagnostic Center",
+  siteUrl: "https://sampurnadiagnosticcenter.in",
 
   phone: "9123456789",
   phoneSecondary: "9876543210",
   whatsappNumber: "919123456789",
 
-  email: "support@crossmedi.in",
+  email: "support@sampurnadiagnosticcenter.in",
 
-  address: "Medical Square, VIP Road, Puri, Odisha - 752002",
+  address: "Ainthapali, Sambalpur, Odisha - 768004",
   fullAddress:
-    "CrossMed Diagnostic & Healthcare, Medical Square, VIP Road, Puri, Odisha - 752002",
+    "Sampurna Diagnostic Center, Ainthapali, Sambalpur, Odisha - 768004",
 
-  city: "Puri",
+  city: "Sambalpur",
   state: "Odisha",
   country: "India",
-  pinCode: "752002",
+  pinCode: "768004",
 
   timings: {
     opd: "Monday - Saturday: 9:00 AM - 2:00 PM",
@@ -26,16 +26,16 @@ export const siteConfig = {
   consultationDay: "Monday - Saturday",
   consultationTime: "9:00 AM - 2:00 PM",
 
-  calendlyUrl: "https://calendly.com/crossmedi",
+  calendlyUrl: "https://calendly.com/sampurnadiagnosticcenter",
 
   mapEmbedUrl:
-    "https://maps.google.com/maps?q=VIP+Road+Puri+Odisha&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "https://maps.google.com/maps?q=Ainthapali+Sambalpur+Odisha&t=&z=15&ie=UTF8&iwloc=&output=embed",
 
-  Logo: "/logos/crossLogo.png",
+  Logo: "/logos/sampurnaLogo.png",
 
-  youtubeChannel: "https://youtube.com/@crossmedi",
-  instagramUrl: "https://instagram.com/crossmedi",
-  facebookUrl: "https://facebook.com/crossmedi",
+  youtubeChannel: "https://youtube.com/@sampurnadiagnosticcenter",
+  instagramUrl: "https://instagram.com/sampurnadiagnosticcenter",
+  facebookUrl: "https://facebook.com/sampurnadiagnosticcenter",
 
   // Services offered
   services: [
@@ -96,7 +96,7 @@ export const siteConfig = {
     available: true,
     contactNumber: "9123456789",
     whatsappNumber: "919123456789",
-    areaCovered: "Puri, Konark, and nearby areas",
+    areaCovered: "Sambalpur, Burla, Hirakud, and nearby areas",
     charges: "Free for orders above ₹500",
     timing: "7:30 AM - 2:00 PM",
   },
@@ -112,7 +112,7 @@ export const siteConfig = {
       degree: "MBBS, MD",
       image: "/images/doctors/dr-amit.jpg",
       consultationImage: "/images/doctors/dr-amit-consultation.jpg",
-      location: "CrossMedi, Puri",
+      location: "Sampurna Diagnostic Center, Sambalpur",
       bio: "Dr. Amit Kumar Mishra is an experienced physician specializing in diabetes care, hypertension, and chronic disease management with a patient-first approach.",
       highlights: [
         "10+ Years Experience",
@@ -132,7 +132,7 @@ export const siteConfig = {
       degree: "MBBS, MD Pediatrics",
       image: "/images/doctors/dr-priyanka.jpg",
       consultationImage: "/images/doctors/dr-priyanka-consultation.jpg",
-      location: "CrossMedi, Puri",
+      location: "Sampurna Diagnostic Center, Sambalpur",
       bio: "Dr. Priyanka Das provides comprehensive healthcare for children, including vaccinations, growth monitoring, and treatment of pediatric illnesses.",
       highlights: [
         "Pediatric Specialist",
@@ -147,25 +147,25 @@ export const siteConfig = {
 
   // Social Media
   social: {
-    instagram: "https://instagram.com/crossmedi",
-    facebook: "https://facebook.com/crossmedi",
-    youtube: "https://youtube.com/@crossmedi",
-    twitter: "https://twitter.com/crossmedi",
+    instagram: "https://instagram.com/sampurnadiagnosticcenter",
+    facebook: "https://facebook.com/sampurnadiagnosticcenter",
+    youtube: "https://youtube.com/@sampurnadiagnosticcenter",
+    twitter: "https://twitter.com/sampurnadiagnostic",
   },
 
   // SEO
   seo: {
     title:
-      "CrossMedi Diagnostic Center - Blood Tests, ECG & Health Packages in Puri",
+      "Sampurna Diagnostic Center - Blood Tests, ECG & Health Packages in Sambalpur",
     description:
-      "Book affordable blood tests, ECG, and full body checkups in Puri with CrossMedi. Home sample collection available. Trusted doctors & accurate reports.",
+      "Book affordable blood tests, ECG, and full body checkups in Sambalpur with Sampurna Diagnostic Center. Home sample collection available. Trusted doctors & accurate reports.",
     keywords: [
-      "diagnostic center puri",
-      "blood test puri",
-      "full body checkup puri",
-      "ECG test puri",
-      "pathology lab puri",
-      "home blood collection puri",
+      "diagnostic center sambalpur",
+      "blood test sambalpur",
+      "full body checkup sambalpur",
+      "ECG test sambalpur",
+      "pathology lab sambalpur",
+      "home blood collection sambalpur",
     ],
   },
 };

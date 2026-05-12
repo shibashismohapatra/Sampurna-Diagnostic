@@ -81,7 +81,7 @@ export default function Hero() {
 
             {/* Main Headline */}
             <h1 className="max-w-2xl text-5xl font-black tracking-tight bg-gradient-to-r from-pink-500 via-violet-600 via-blue-600 to-cyan-500 bg-clip-text text-transparent lg:text-6xl lg:leading-[1.1] drop-shadow-[0_2px_24px_rgba(139,92,246,0.18)]">
-              Cross Med{" "}
+              Sampurna Diagnostic{" "}
               <span className="relative">
 
             

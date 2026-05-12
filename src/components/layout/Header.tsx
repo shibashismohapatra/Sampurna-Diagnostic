@@ -39,7 +39,7 @@ export default function Header() {
           {/* Logo Section */}
           <Link href="/" className="group relative flex items-center gap-3">
             {/* Logo Container */}
-            <div className="relative">
+            {/* <div className="relative">
               {siteConfig.Logo && !logoError ? (
                 <div className="relative h-10 w-10 overflow-hidden rounded-xl bg-white shadow-md transition-all duration-300 group-hover:scale-105 lg:h-12 lg:w-12">
 
@@ -61,7 +61,7 @@ export default function Header() {
                   </span>
                 </div>
               )}
-            </div>
+            </div> */}
           </Link>
 
           {/* Desktop Navigation - Minimal Premium Style */}

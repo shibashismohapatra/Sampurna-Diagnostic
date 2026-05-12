@@ -39,7 +39,7 @@ export default function Footer() {
           {/* Brand Section */}
           <div className="lg:col-span-1">
             {/* Logo & Brand */}
-            <Link href="/" className="group flex items-center gap-3">
+            {/* <Link href="/" className="group flex items-center gap-3">
               <div className="relative">
                 {siteConfig.Logo && !logoError ? (
                   <div className="relative h-10 w-10 overflow-hidden rounded-xl bg-white shadow-md transition-all duration-300 group-hover:scale-105 lg:h-12 lg:w-12">
@@ -59,7 +59,7 @@ export default function Footer() {
                 )}
               </div>
              
-            </Link>
+            </Link> */}
             
             <p className="mt-4 text-sm leading-relaxed text-zinc-500">
               Accurate diagnostic services, blood tests, ECG, and health checkup 
