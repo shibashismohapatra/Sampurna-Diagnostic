@@ -21,7 +21,7 @@ const inter = Inter({
 });
 
 // Get the primary doctor name safely
-const doctorName = siteConfig.doctors?.[0]?.name || siteConfig.doctor?.name || "Medical Specialist";
+const doctorName = siteConfig.doctors?.[0]?.name || "Medical Specialist";
 
 export const metadata: Metadata = {
   title: {
